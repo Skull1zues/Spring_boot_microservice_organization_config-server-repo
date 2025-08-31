@@ -1,0 +1,2 @@
+# Spring_boot_microservice_organization_config-server-repo
+Config server repository to store configuration of  Spring_boot_microservice_organization
